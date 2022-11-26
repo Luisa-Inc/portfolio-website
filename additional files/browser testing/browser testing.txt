@@ -1,0 +1,13 @@
+Used: "Smartbear Bit Bar" (former "Cross Browser Testing" as recommended in the exercise)
+
+Chrome
+    logo img not shown, changed it to higher resolution image (first attempt: svg from stock; changed again to camera picture in png)
+
+Firefox
+    everything shown properly
+
+IE Edge
+    everything shown properly
+
+Safari
+    everything shown properly

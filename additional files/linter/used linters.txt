@@ -1,0 +1,6 @@
+Used linters:
+    W3C validator: changes for index.html, see attached screenshot
+
+    VS Code HTMLHint: changes for about.html and work.html, see attached screenshots (probems for index.html have been solved after check with W3C)
+
+    VS CSS stylelint: no problems
