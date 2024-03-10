@@ -1,5 +1,5 @@
 # Portfolio Website
 
 
-(/img/screenshot.jpg "Preview Portfolio")
+![Preview Portfolio](/img/screenshot.jpg "Preview Portfolio")
  
